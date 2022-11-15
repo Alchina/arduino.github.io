@@ -5,7 +5,7 @@
 }
 
 body{
-  background: #b1f5ba;
+  background: #008184;
 }
 
 header{
@@ -28,13 +28,14 @@ header h3{
   font-size: 22px;
   padding-right: 10px;
   text-transform: uppercase;
+  color: #000;
   transition: 1s;
 }
 
 .info{
   padding:  0 100px;
-  background: #b1f5ba;
-  color: #111;
+  background: #008184;
+  color: #fff;
   transition: 1s;
   justify-content: center;
   display: flex;
